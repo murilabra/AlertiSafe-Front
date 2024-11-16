@@ -1,31 +1,31 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\manub\\RiderProjects\\AlertiSafe\\AlertiSafe\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AlertiSafe.bundle.scp.css",
+      "Id": "C:\\Users\\muril\\OneDrive\\Escritorio\\AlertiSafe\\AlertiSafe-Front\\AlertiSafe\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AlertiSafe.bundle.scp.css",
       "PackagePath": "staticwebassets\\AlertiSafe.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\manub\\RiderProjects\\AlertiSafe\\AlertiSafe\\wwwroot\\app.css",
+      "Id": "C:\\Users\\muril\\OneDrive\\Escritorio\\AlertiSafe\\AlertiSafe-Front\\AlertiSafe\\wwwroot\\app.css",
       "PackagePath": "staticwebassets\\app.css"
     },
     {
-      "Id": "C:\\Users\\manub\\RiderProjects\\AlertiSafe\\AlertiSafe\\wwwroot\\bootstrap\\CSS\\Estilos.css",
+      "Id": "C:\\Users\\muril\\OneDrive\\Escritorio\\AlertiSafe\\AlertiSafe-Front\\AlertiSafe\\wwwroot\\bootstrap\\CSS\\Estilos.css",
       "PackagePath": "staticwebassets\\bootstrap\\CSS\\Estilos.css"
     },
     {
-      "Id": "C:\\Users\\manub\\RiderProjects\\AlertiSafe\\AlertiSafe\\wwwroot\\bootstrap\\Js\\Scripts.js",
+      "Id": "C:\\Users\\muril\\OneDrive\\Escritorio\\AlertiSafe\\AlertiSafe-Front\\AlertiSafe\\wwwroot\\bootstrap\\Js\\Scripts.js",
       "PackagePath": "staticwebassets\\bootstrap\\Js\\Scripts.js"
     },
     {
-      "Id": "C:\\Users\\manub\\RiderProjects\\AlertiSafe\\AlertiSafe\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Id": "C:\\Users\\muril\\OneDrive\\Escritorio\\AlertiSafe\\AlertiSafe-Front\\AlertiSafe\\wwwroot\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\manub\\RiderProjects\\AlertiSafe\\AlertiSafe\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\muril\\OneDrive\\Escritorio\\AlertiSafe\\AlertiSafe-Front\\AlertiSafe\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\manub\\RiderProjects\\AlertiSafe\\AlertiSafe\\wwwroot\\favicon.png",
+      "Id": "C:\\Users\\muril\\OneDrive\\Escritorio\\AlertiSafe\\AlertiSafe-Front\\AlertiSafe\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {

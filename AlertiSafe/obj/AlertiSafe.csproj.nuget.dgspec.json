@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\manub\\RiderProjects\\AlertiSafe\\AlertiSafe\\AlertiSafe.csproj": {}
+    "C:\\Users\\muril\\OneDrive\\Escritorio\\AlertiSafe\\AlertiSafe-Front\\AlertiSafe\\AlertiSafe.csproj": {}
   },
   "projects": {
-    "C:\\Users\\manub\\RiderProjects\\AlertiSafe\\AlertiSafe\\AlertiSafe.csproj": {
+    "C:\\Users\\muril\\OneDrive\\Escritorio\\AlertiSafe\\AlertiSafe-Front\\AlertiSafe\\AlertiSafe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\manub\\RiderProjects\\AlertiSafe\\AlertiSafe\\AlertiSafe.csproj",
+        "projectUniqueName": "C:\\Users\\muril\\OneDrive\\Escritorio\\AlertiSafe\\AlertiSafe-Front\\AlertiSafe\\AlertiSafe.csproj",
         "projectName": "AlertiSafe",
-        "projectPath": "C:\\Users\\manub\\RiderProjects\\AlertiSafe\\AlertiSafe\\AlertiSafe.csproj",
-        "packagesPath": "C:\\Users\\manub\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\manub\\RiderProjects\\AlertiSafe\\AlertiSafe\\obj\\",
+        "projectPath": "C:\\Users\\muril\\OneDrive\\Escritorio\\AlertiSafe\\AlertiSafe-Front\\AlertiSafe\\AlertiSafe.csproj",
+        "packagesPath": "C:\\Users\\muril\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\muril\\OneDrive\\Escritorio\\AlertiSafe\\AlertiSafe-Front\\AlertiSafe\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\manub\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\muril\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
