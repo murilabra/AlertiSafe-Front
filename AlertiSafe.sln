@@ -1,6 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlertiSafe", "AlertiSafe\AlertiSafe.csproj", "{7EE379C9-49E2-4A67-9EB3-7F71EFD9EADB}"
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlertiSafe", "AlertiSafe\AlertiSafe.csproj", "{7EE379C9-49E2-4A67-9EB3-7F71EFD9EADB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -12,5 +15,11 @@ Global
 		{7EE379C9-49E2-4A67-9EB3-7F71EFD9EADB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7EE379C9-49E2-4A67-9EB3-7F71EFD9EADB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7EE379C9-49E2-4A67-9EB3-7F71EFD9EADB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5102025-7E80-4A53-858D-0C2136B4A831}
 	EndGlobalSection
 EndGlobal

@@ -1,0 +1,51 @@
+﻿@page "/Login"
+@using MudBlazor
+    
+<MudCard Class="container">
+    <MudPaper Elevation ="4" Class="pa-4">
+        <MudText Typo="Typo.h5" Align="Align.Center" Class="mb-4">Inicio de Sesión</MudText>
+
+        <MudTextField @bind-Value="Email" Label="Correo Electrónico" Variant="Variant.Filled"
+                      FullWidth="true" Adornment="Adornment.Start" AdornmentIcon="@Icons.Material.Filled.Email" />
+
+
+        <MudTextField @bind-Value="Password" Label="Contraseña" Variant="Variant.Filled"
+                      FullWidth="true" Adornment="Adornment.Start" AdornmentIcon="@Icons.Material.Filled.Lock"
+                      InputType="InputType.Password" />
+
+        <MudButton Variant="Variant.Filled" Color="Color.Primary" FullWidth="true" Class="mt-4">
+            Iniciar Sesión
+        </MudButton>
+
+        <MudText Typo="Typo.body2" Align="Align.Center" Class="mt-2">
+            <a href="/reset-password" class="mud-theme-primary-text">¿Olvidaste tu contraseña?</a>
+        </MudText>
+    </MudPaper>
+</MudCard>
+
+<style>
+
+    background-image: linear-gradient(to top, #1a237e, #453a9d, #6953bd, #8e6dde, #b388ff);
+
+.mud-container {
+    background-color: #f9f9f9;
+    border-radius: 8px;
+}
+
+.mud-theme-primary-text {
+    color: #1976d2;
+    text-decoration: none;
+}
+.container {
+    width: 80%; /* 80% del ancho de la ventana */
+    max-width: 600px; /* Máximo 600px de ancho */
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 8px;
+}
+</style>
+
+@code {
+    private string Email { get; set; } = string.Empty;
+    private string Password { get; set; } = string.Empty;
+}

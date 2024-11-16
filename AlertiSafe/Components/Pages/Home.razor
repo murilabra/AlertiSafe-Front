@@ -2,10 +2,21 @@
 @using MudBlazor
 
 
-<MudLayout>
-    <MudAppBar Elevation="4" Class="justify-content-center">
+<MudLayout >
+    <MudAppBar Elevation="4" Class="justify-content-center" >
         <MudText Typo="Typo.h6" Align="Align.Center">AlertiSafe</MudText>
     </MudAppBar>
+
+    <MudMainContent Class="pelo">
+
+        <MudText Class="d-flex justify-content-center align-items-center, pa-4 " Typo="Typo.h3">Bienvenido a AlertiSafe</MudText>
+
+        <MudContainer Class="d-flex justify-content-center align-items-center" Style="height: 10vh;">
+            <MudText Typo="Typo.h3" Align="Align.Center">Seleccione el tipo de emergencia que desea notificar</MudText>
+        </MudContainer>
+    </MudMainContent>
+
+    <br>
 
     <MudContainer MaxWidth="MaxWidth.Medium" Class="mt-4">
         <MudGrid Spacing="3">
@@ -62,12 +73,16 @@
                     </MudCardContent>
                 </MudCard>
             </MudItem>
-            <!-- Agrega más botones según las alertas necesarias -->
         </MudGrid>
     </MudContainer>
 </MudLayout>
 
+
 <style>
+
+    .pelo{
+        padding: 20px;
+    }
 
     .alert-card {
         text-align: center;
@@ -81,4 +96,12 @@
         transform: scale(1.05);
         box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     }
+
+    .custom-footer {
+        background-color: #333;
+        color: white;
+        padding: 16px;
+        text-align: center;
+    }
+
 </style>

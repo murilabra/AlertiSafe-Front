@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AlertiSafe")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d8c86fd0eb55c5e4e9e37e7e40a000b0e42a677")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fdd1223eb587e5007e04e6163833cf98dc380e63")]
 [assembly: System.Reflection.AssemblyProductAttribute("AlertiSafe")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AlertiSafe")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
