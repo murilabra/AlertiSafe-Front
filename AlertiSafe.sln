@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlertiSafe", "AlertiSafe\AlertiSafe.csproj", "{7EE379C9-49E2-4A67-9EB3-7F71EFD9EADB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EE379C9-49E2-4A67-9EB3-7F71EFD9EADB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EE379C9-49E2-4A67-9EB3-7F71EFD9EADB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EE379C9-49E2-4A67-9EB3-7F71EFD9EADB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EE379C9-49E2-4A67-9EB3-7F71EFD9EADB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

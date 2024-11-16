@@ -1,0 +1,2 @@
+﻿Wenas cauras si quieren sacar las paginas y cambiarlas haganlo solo recordar que las paginas de blazor al crearlas son las 
+RAZOR PAGE igual supongo que con esas que estan ahi deberian tener de sobra cambien los nombres nomas 
